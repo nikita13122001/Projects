@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "web-vitals": "^3.0.0"
+  }
+}
